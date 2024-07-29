@@ -1,5 +1,5 @@
-#ifndef __DATA_HANDLER_H
-#define __DATA_HANDLER_H
+#ifndef __DATA_H
+#define __DATA_H
 
 #include <vector>
 #include <stdint.h>
